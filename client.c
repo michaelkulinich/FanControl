@@ -1,6 +1,5 @@
 /*Michael Kulinich
  * kulinich@chapman.edu
- * Intuitive Challenge c++
  * client.c
  * A client socket program representing the subsystems
  */
