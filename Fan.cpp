@@ -1,6 +1,5 @@
 /*Michael Kulinich
  * kulinich@chapman.edu
- * Intuitive Challenge c++
  * Fan.cpp
 */
 #include "Fan.h"
