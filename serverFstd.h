@@ -1,6 +1,5 @@
 /*Michael Kulinich
  * kulinich@chapman.edu
- * Intuitive Challenge c++
  * serverFstd.h
  * A server in the internet domain using TCP
 */
