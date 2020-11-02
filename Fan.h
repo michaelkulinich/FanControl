@@ -1,6 +1,5 @@
 /*Michael Kulinich
  * kulinich@chapman.edu
- * Intuitive Challenge c++
  * Fan.h
 */
 #ifndef FAN_H
