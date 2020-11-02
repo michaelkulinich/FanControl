@@ -1,6 +1,5 @@
-/*Michael Kulinich
+/* Michael Kulinich
  * kulinich@chapman.edu
- * Intuitive Challenge c++
  * serverFstd.cpp
  * A server class
 */
